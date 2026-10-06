@@ -1,30 +1,39 @@
 # Hi, I'm Sumaiya Akter Shukhy 👋
 
-📊 Aspiring Data Analyst passionate about transforming data into actionable business insights.
+### 📊 Data Analyst | Power BI | SQL | Python | Data Visualization | Business Intelligence
 
-💡 Skilled in Power BI, SQL, Excel, Python, Power Query, and DAX.
+Turning raw data into actionable insights through analytics, dashboard development, and data-driven storytelling.
 
-🚀 Experienced in building interactive dashboards, KPI reports, and business intelligence solutions across Healthcare, Sales, HR, and Supply Chain domains.
+## 👩‍💻 About Me
 
-## 🛠️ Skills
+- Passionate about Data Analytics and Business Intelligence
+- Skilled in Power BI, SQL, Excel, Python, Power Query, and DAX
+- Experienced in building interactive dashboards and KPI reports
+
+## 🛠️ Technical Skills
+
 - Power BI
 - SQL
-- Excel
 - Python
+- Excel
 - DAX
 - Power Query
 - Data Modeling
 - Data Visualization
 - Business Intelligence
 
-## 📂 Featured Projects
-- Healthcare Claims Analytics Dashboard
-- Beverage Sales Analysis Dashboard
-- HR Analytics Dashboard
-- Supply Chain Analytics Project
+## 🚀 Featured Projects
+
+🏥 Healthcare Claims Analytics Dashboard
+
+🥤 Beverage Sales Analysis Dashboard
+
+👥 HR Analytics Dashboard
+
+📦 Supply Chain Analytics Project
 
 ## 🌐 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/sumaiya-akter-shukhy/
-- GitHub: https://github.com/shukhy
 
-⭐ Turning data into meaningful insights through analytics, visualization, and storytelling.
+LinkedIn: https://www.linkedin.com/in/sumaiya-akter-shukhy/
+
+GitHub: https://github.com/shukhy
